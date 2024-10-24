@@ -1,2 +1,2 @@
 # QA-sept-2024
-first text addet here
+first text addet here --global user.email""albenashtregarskakostadinova@gmail.com
